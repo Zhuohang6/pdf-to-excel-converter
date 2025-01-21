@@ -1,4 +1,4 @@
-# pdf-to-excel-converter
+PDF-to-excel-converter
 A Python-based tool for converting PDF tables to Excel files using `pdfplumber` or `camelot`.
 
 ## Features
