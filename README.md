@@ -2,8 +2,8 @@
 A Python-based tool for converting PDF tables to Excel files using `pdfplumber` or `camelot`.
 
 ## Features
-- Extract tables from PDFs and save them as Excel files.
-- Contains basic and advanced extraction methods.
+- **Basic Extraction**: Uses `pdfplumber` for simple table extraction.
+- **Advanced Extraction**: Uses `camelot` for more complex table structures.
 
 ## Requirements
 - Python 3.7+
